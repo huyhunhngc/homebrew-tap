@@ -2,10 +2,10 @@ cask "simcam-lite" do
   version "0.2.7"
   sha256 "3af362ea5e905b66aa49734e5f2500f1722dd5fab05528798abff3b988221e24"
 
-  url "https://github.com/huyhunhngc/SimCamLite/releases/download/v#{version}/SimCamLite-#{version}.dmg"
+  url "https://github.com/huyhunhngc/simulator-camera/releases/download/v#{version}/SimCamLite-#{version}.dmg"
   name "SimCam Lite"
   desc "Camera for the iOS Simulator"
-  homepage "https://github.com/huyhunhngc/SimCamLite"
+  homepage "https://github.com/huyhunhngc/simulator-camera"
 
   livecheck do
     url "https://simcamupdates.ifateam.dev/appcast.xml"
