@@ -1,6 +1,6 @@
 cask "simcam-lite" do
-  version "0.2.7"
-  sha256 "3af362ea5e905b66aa49734e5f2500f1722dd5fab05528798abff3b988221e24"
+  version "0.2.8"
+  sha256 "b99e54bfbe740f8ec4f8519db2e86a3a2511194456c5f2de81884bfb716384d7"
 
   url "https://github.com/huyhunhngc/simulator-camera/releases/download/v#{version}/SimCamLite-#{version}.dmg"
   name "SimCam Lite"
